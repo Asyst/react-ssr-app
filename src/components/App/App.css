@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f2f2f2;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ui.card {
+    max-width: 580px;
+    width: 100%;
+    height: 680px;
+}
+
+.ui.card img {
+    width: 100%;
+    height: auto;
+}
+
+.main-wrapper {
+    /* display: flex; */
+    width: 1280px;
+    margin: 38px auto 0;
+    padding: 0 68px;
+}
+
+.card-container {
+    margin: 0;
+    width: 558px;
+}
+
+.ui.vertical.menu {
+    align-self: baseline;
+}
+
+.ui.rail {
+    width: 238px !important;
+}

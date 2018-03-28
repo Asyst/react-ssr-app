@@ -1,0 +1,284 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "name": "Ray Hirthe",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Ernestina.Heathcote@gmail.com",
+      "userCard": {
+        "name": "Lucio Schaefer",
+        "username": "Douglas_Marquardt98",
+        "email": "Annamae.Bradtke57@gmail.com",
+        "address": {
+          "street": "Craig Flat",
+          "suite": "Apt. 312",
+          "city": "North Abbie",
+          "zipcode": "35309-0516",
+          "geo": {
+            "lat": "79.7177",
+            "lng": "55.5187"
+          }
+        },
+        "phone": "(356) 484-5245",
+        "website": "gregory.com",
+        "company": {
+          "name": "Wisoky Inc",
+          "catchPhrase": "Persistent systematic orchestration",
+          "bs": "viral synergize interfaces"
+        }
+      }
+    },
+    {
+      "id": 1,
+      "name": "Noe Hermiston",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Garnett.Frami78@gmail.com",
+      "userCard": {
+        "name": "Granville Lemke",
+        "username": "Antoinette_Mohr",
+        "email": "Andreane38@yahoo.com",
+        "address": {
+          "street": "Tyra Prairie",
+          "suite": "Apt. 252",
+          "city": "Westleyville",
+          "zipcode": "24469",
+          "geo": {
+            "lat": "88.6327",
+            "lng": "30.3287"
+          }
+        },
+        "phone": "(643) 576-5255 x70501",
+        "website": "sierra.name",
+        "company": {
+          "name": "Keeling, Quigley and Fritsch",
+          "catchPhrase": "Grass-roots executive local area network",
+          "bs": "seamless transform applications"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Clarissa Harvey",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Elisha13@gmail.com",
+      "userCard": {
+        "name": "Loraine Anderson",
+        "username": "Ila22",
+        "email": "Neoma_Douglas22@gmail.com",
+        "address": {
+          "street": "Alva Corners",
+          "suite": "Apt. 578",
+          "city": "North Rodchester",
+          "zipcode": "25940-6872",
+          "geo": {
+            "lat": "-7.8668",
+            "lng": "84.0580"
+          }
+        },
+        "phone": "418-519-2787 x34731",
+        "website": "elmore.com",
+        "company": {
+          "name": "Friesen Group",
+          "catchPhrase": "Proactive heuristic standardization",
+          "bs": "scalable monetize niches"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cristina Mitchell",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Deshawn88@yahoo.com",
+      "userCard": {
+        "name": "Judy Weber",
+        "username": "Isaiah.Bosco",
+        "email": "Rocio62@hotmail.com",
+        "address": {
+          "street": "Warren Ports",
+          "suite": "Apt. 391",
+          "city": "West Johnnyshire",
+          "zipcode": "87176-7743",
+          "geo": {
+            "lat": "-24.7147",
+            "lng": "33.3056"
+          }
+        },
+        "phone": "(746) 449-3956",
+        "website": "scotty.org",
+        "company": {
+          "name": "Herzog LLC",
+          "catchPhrase": "Decentralized 24 hour forecast",
+          "bs": "24/7 transition e-markets"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dawn Ryan",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Josefina_Hyatt@gmail.com",
+      "userCard": {
+        "name": "Tyrique Kessler",
+        "username": "Heaven.Gleichner",
+        "email": "Payton91@hotmail.com",
+        "address": {
+          "street": "Kane Camp",
+          "suite": "Suite 014",
+          "city": "Veumville",
+          "zipcode": "83714-4082",
+          "geo": {
+            "lat": "80.1378",
+            "lng": "-169.3949"
+          }
+        },
+        "phone": "785.280.3325 x778",
+        "website": "mario.org",
+        "company": {
+          "name": "Abbott, Johnston and Kuvalis",
+          "catchPhrase": "Devolved foreground workforce",
+          "bs": "intuitive repurpose metrics"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Javonte Smith",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Steve12@yahoo.com",
+      "userCard": {
+        "name": "Geo Parisian",
+        "username": "Sid.Schuppe",
+        "email": "Terrance.Schoen@gmail.com",
+        "address": {
+          "street": "Karelle Cliff",
+          "suite": "Apt. 240",
+          "city": "Traceburgh",
+          "zipcode": "23657-8946",
+          "geo": {
+            "lat": "-86.0125",
+            "lng": "-53.4251"
+          }
+        },
+        "phone": "1-152-746-7734",
+        "website": "bernadine.info",
+        "company": {
+          "name": "Hills - Hirthe",
+          "catchPhrase": "Front-line user-facing superstructure",
+          "bs": "turn-key evolve e-business"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mr. Sabina Moore",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Daisha62@gmail.com",
+      "userCard": {
+        "name": "Brandy Cruickshank",
+        "username": "Asha_Treutel",
+        "email": "Karen50@hotmail.com",
+        "address": {
+          "street": "Watsica Islands",
+          "suite": "Apt. 628",
+          "city": "Cronaburgh",
+          "zipcode": "71777-5752",
+          "geo": {
+            "lat": "-15.8313",
+            "lng": "6.9702"
+          }
+        },
+        "phone": "924.014.4748",
+        "website": "aaron.com",
+        "company": {
+          "name": "Reilly Inc",
+          "catchPhrase": "Operative background hardware",
+          "bs": "vertical extend bandwidth"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Elisa Barrows",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Ottilie11@yahoo.com",
+      "userCard": {
+        "name": "Pauline Rau",
+        "username": "Regan_Thompson",
+        "email": "Annabel.Murphy34@yahoo.com",
+        "address": {
+          "street": "Ruecker Cape",
+          "suite": "Suite 284",
+          "city": "Hahnborough",
+          "zipcode": "06166-7492",
+          "geo": {
+            "lat": "30.4036",
+            "lng": "168.4699"
+          }
+        },
+        "phone": "(886) 577-6497 x87136",
+        "website": "marlin.com",
+        "company": {
+          "name": "Denesik, Volkman and Bednar",
+          "catchPhrase": "Quality-focused fresh-thinking matrices",
+          "bs": "dynamic cultivate vortals"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Benedict Rolfson",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Aubrey.Satterfield@gmail.com",
+      "userCard": {
+        "name": "Montana Klein",
+        "username": "Giles_Larkin69",
+        "email": "Melissa_Bartoletti@yahoo.com",
+        "address": {
+          "street": "Hilton Island",
+          "suite": "Suite 198",
+          "city": "Port Darrick",
+          "zipcode": "56654",
+          "geo": {
+            "lat": "-80.7561",
+            "lng": "47.6197"
+          }
+        },
+        "phone": "(124) 875-1147",
+        "website": "zoey.net",
+        "company": {
+          "name": "Schneider, Roberts and Ernser",
+          "catchPhrase": "Innovative actuating instruction set",
+          "bs": "B2B mesh experiences"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Monty Grant",
+      "avatar": "http://lorempixel.com/640/480/cats",
+      "email": "Alexie1@hotmail.com",
+      "userCard": {
+        "name": "Kay Frami",
+        "username": "Talia.Mayer6",
+        "email": "Kelley62@yahoo.com",
+        "address": {
+          "street": "Becker Tunnel",
+          "suite": "Suite 540",
+          "city": "Trantowmouth",
+          "zipcode": "14799-4880",
+          "geo": {
+            "lat": "-5.6060",
+            "lng": "95.7130"
+          }
+        },
+        "phone": "1-533-158-5735 x3008",
+        "website": "regan.name",
+        "company": {
+          "name": "Bruen Group",
+          "catchPhrase": "Inverse cohesive installation",
+          "bs": "innovative reintermediate communities"
+        }
+      }
+    }
+  ]
+}
